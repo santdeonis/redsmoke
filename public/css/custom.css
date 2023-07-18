@@ -1,0 +1,9 @@
+.notifyjs-custom-notification-error{
+    color: #ff1111;
+    background-color: rgba(255, 0, 0, 0.62);
+    border-color: rgba(255, 0, 0, 0.62);
+}
+
+.notifyjs-corner{
+    padding-top: 60px;
+}

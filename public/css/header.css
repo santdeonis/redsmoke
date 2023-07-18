@@ -1,0 +1,15 @@
+-webkit {
+    appearance:none;
+}
+
+.bg-main {
+    background-color: #DCDCDC;
+}
+
+.bg-header {
+    background-color: #808080;
+}
+
+.header-search {
+    height: 50px;
+}

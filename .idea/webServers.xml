@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="091fa7a7-4373-45a8-bd7b-47f8d4a66788" name="red-smoke" url="http://red-smoke.ru">
+        <fileTransfer rootFolder="/www/red-smoke.ru" host="37.140.192.134" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
